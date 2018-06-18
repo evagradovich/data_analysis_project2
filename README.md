@@ -1,2 +1,2 @@
-# data_analysis_project2
-Sleep bout distribution in flies
+# Data analysis project 2 - Exploratory analysis of sleep bouts distributions in Drosophila flies
+
